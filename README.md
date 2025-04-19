@@ -52,7 +52,8 @@
 
 ## 📸 اسکرین‌شات
 
-> (در این قسمت می‌توانید تصاویری از فرم‌ها و دیتابیس اضافه کنید)    ![Screenshot 2025-04-19 185643](https://github.com/user-attachments/assets/ae6ce1f2-e286-40eb-bea6-d3b34bb3161d)      
+> (در این قسمت می‌توانید تصاویری از فرم‌ها و دیتابیس اضافه کنید)    ![Screenshot 2025-04-19 185643](https://github.com/user-attachments/assets/ae6ce1f2-e286-40eb-bea6-d3b34bb3161d)      ![Screenshot 2025-04-19 185741](https://github.com/user-attachments/assets/b29666ac-e462-4e2d-b7c1-d6ca05422730)
+
 
 
 ---
