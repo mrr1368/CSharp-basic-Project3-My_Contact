@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mrr1368/CSharp-basic-Project3-My_Contacts/raw/main/assets/My_Contacts.png" alt="CSharp-basic-Project3-My_Contacts Banner" />
+</p>
+
 # 📇 My Contacts - پروژه مدیریت مخاطبین
 
 پروژه‌ای ساده ولی کاربردی برای مدیریت مخاطبین با استفاده از زبان #C و تکنولوژی WinForms که برای تمرین معماری سه‌لایه (UI - Repository - Database) طراحی شده.
