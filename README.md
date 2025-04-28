@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/mrr1368/CSharp-basic-Project3-My_Contacts/raw/main/assets/My_Contacts.png" alt="CSharp-basic-Project3-My_Contacts Banner" />
-</p>
+
+
 
 # 📇 My Contacts - پروژه مدیریت مخاطبین
 
